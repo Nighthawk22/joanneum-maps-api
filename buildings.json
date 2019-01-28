@@ -1,0 +1,24 @@
+[
+    {
+        "id": "eb9198e1-aa65-4e56-92f6-235dd81320ee",
+        "title": "Kapfenberg B 1",
+        "description": "Kapfenberg Building B 1st floor",
+        "layer": "kapfenberg-b-1stfloor",
+        "floor": 1,
+        "center": {
+            "latitude": 47.45325,
+            "longitude": 15.33213
+        }
+    },
+    {
+        "id": "f7fda92f-d6da-438e-bd84-fd0348e9a5ff",
+        "title": "Kapfenberg B 2",
+        "description": "Kapfenberg Building B 2nd floor",
+        "layer": "kapfenberg_B_2ndfloor",
+        "floor": 2,
+        "center": {
+            "latitude": 47.45325,
+            "longitude": 15.33213
+        }
+    }
+]
