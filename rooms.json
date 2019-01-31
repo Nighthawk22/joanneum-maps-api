@@ -1,0 +1,24 @@
+[
+    {
+        "id": "c52961b2-32f7-4c4f-a1df-f744574c6ba2",
+        "title": "K.WS46B.207",
+        "description": "Apple LAB IT & Mobile Security",
+        "buildingID": "f7fda92f-d6da-438e-bd84-fd0348e9a5ff",
+        "location": {
+            "latitude": 47.45322,
+            "longitude": 15.33190
+        }
+    },
+    {
+        "id": "401bad4c-9518-4655-86c8-547261cc3edc",
+        "title": "K.WS46b.102",
+        "description": "Lecture Room 102 Kapfenberg",
+        "buildingId": "eb9198e1-aa65-4e56-92f6-235dd81320ee",
+        "location": {
+            "latitude": 47.45327,
+            "longitude": 15.33242
+        }
+    }
+]
+
+
