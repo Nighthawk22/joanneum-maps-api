@@ -18,6 +18,16 @@
             "latitude": 47.45327,
             "longitude": 15.33242
         }
+    },
+    {
+        "id": "3c343102-58b5-40d1-a0e9-9352e694f595",
+        "title": "G.AP147.005",
+        "description": "Lecture Room 5, Graz Alte Poststraße 147",
+        "buildingID": "40d3de1f-44cb-4bc9-b386-d4f35a290d09",
+        "location": {
+            "latitude": 47.06959, 
+            "longitude": 15.40971
+        }
     }
 ]
 
